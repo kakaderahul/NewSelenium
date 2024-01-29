@@ -5,8 +5,8 @@
     <classes>
       <class name="TestCases.LoginTest">
         <methods>
+          <include name="loginTestWithInvalidData"/>
           <include name="setUp"/>
-          <include name="loginTestMethod"/>
         </methods>
       </class> <!-- TestCases.LoginTest -->
     </classes>
